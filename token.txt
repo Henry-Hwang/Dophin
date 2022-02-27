@@ -1,0 +1,8 @@
+{
+  "localhost": {
+    "mac": "58:a0:23:28:80:fb",
+    "hostname": "SHEN5CJ71X2",
+    "platform": "Windows",
+    "token": "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"
+    }
+}
