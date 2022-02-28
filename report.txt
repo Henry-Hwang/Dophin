@@ -9,3 +9,4 @@
 {'fresh': 5, 'pickup': 1, 'miss': 0, 'state': 0, 'locked': 0, 'begin': '2022-02-28 23:00:02', 'end': '2022-02-28 23:00:40'}
 {'fresh': 8, 'pickup': 1, 'miss': 7, 'state': 0, 'locked': 0, 'begin': '2022-02-28 23:02:17', 'end': '2022-02-28 23:03:22'}
 {'fresh': 4, 'pickup': 1, 'miss': 0, 'state': 0, 'locked': 0, 'begin': '2022-03-01 00:02:29', 'end': '2022-03-01 00:03:12'}
+{'fresh': 4, 'pickup': 1, 'miss': 0, 'state': 0, 'locked': 0, 'begin': '2022-03-01 00:06:14', 'end': '2022-03-01 00:07:20'}
