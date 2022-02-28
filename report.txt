@@ -5,3 +5,5 @@
 {'fresh': 60, 'pickup': 2, 'miss': 0, 'state': 1, 'locked': 0, 'begin': '2022-02-28 21:53:03', 'end': '2022-02-28 21:55:51'}
 {'fresh': 5, 'pickup': 1, 'miss': 0, 'state': 0, 'locked': 0, 'begin': '2022-02-28 22:30:37', 'end': '2022-02-28 22:31:34'}
 {'fresh': 3, 'pickup': 1, 'miss': 0, 'state': 0, 'locked': 0, 'begin': '2022-02-28 22:32:30', 'end': '2022-02-28 22:33:34'}
+{'fresh': 7, 'pickup': 1, 'miss': 0, 'state': 0, 'locked': 0, 'begin': '2022-02-28 22:34:26', 'end': '2022-02-28 22:35:24'}
+{'fresh': 5, 'pickup': 1, 'miss': 0, 'state': 0, 'locked': 0, 'begin': '2022-02-28 23:00:02', 'end': '2022-02-28 23:00:40'}
