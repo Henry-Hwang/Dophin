@@ -62,3 +62,8 @@ Auto Stop: {'fresh': 119, 'pickup': 0, 'miss': 0, 'state': 0, 'locked': 0}
 Thread End: {'fresh': 119, 'pickup': 0, 'miss': 0, 'state': 0, 'locked': 0, 'begin': '2022-03-01 17:30:21', 'end': '2022-03-01 17:33:45'}
 Thread End: {'begin': '2022-03-01 17:34:04', 'end': '2022-03-01 17:34:19'}
 Auto Stop: {'fresh': 675, 'pickup': 0, 'miss': 0, 'state': 0, 'locked': 0}
+Thread End: {'fresh': 675, 'pickup': 0, 'miss': 0, 'state': 0, 'locked': 0, 'begin': '2022-03-01 17:36:10', 'end': '2022-03-01 18:05:40'}
+Thread End: {'fresh': 66, 'pickup': 0, 'miss': 0, 'state': 1, 'locked': 0, 'begin': '2022-03-01 18:06:00', 'end': '2022-03-01 18:08:48'}
+Thread End: {'fresh': 99, 'pickup': 0, 'miss': 0, 'state': 1, 'locked': 0, 'begin': '2022-03-01 18:08:56', 'end': '2022-03-01 18:11:53'}
+Thread End: {'fresh': 334, 'pickup': 0, 'miss': 0, 'state': 1, 'locked': 0, 'begin': '2022-03-01 18:11:57', 'end': '2022-03-01 18:19:08'}
+Auto Stop: {'fresh': 84, 'pickup': 0, 'miss': 0, 'state': 0, 'locked': 0}
