@@ -70,3 +70,4 @@ Auto Stop: {'fresh': 84, 'pickup': 0, 'miss': 0, 'state': 0, 'locked': 0}
 Thread End: {'fresh': 84, 'pickup': 0, 'miss': 0, 'state': 0, 'locked': 0, 'begin': '2022-03-01 18:19:14', 'end': '2022-03-01 18:27:16'}
 Thread End: {'fresh': 238, 'pickup': 0, 'miss': 1, 'state': 1, 'locked': 0, 'begin': '2022-03-01 18:27:20', 'end': '2022-03-01 18:33:55'}
 Auto Stop: {'fresh': 6, 'pickup': 1, 'miss': 2, 'state': 0, 'locked': 0}
+Auto Stop: {'fresh': 15, 'pickup': 1, 'miss': 2, 'state': 0, 'locked': 0}
