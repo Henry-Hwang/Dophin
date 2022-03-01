@@ -86,3 +86,5 @@ Thread End: {'begin': '2022-03-01 22:32:05', 'end': '2022-03-01 22:36:02'}
 Thread End: {'fresh': 8, 'pickup': 0, 'miss': 0, 'state': 1, 'locked': 0, 'begin': '2022-03-01 22:36:07', 'end': '2022-03-01 22:43:02'}
 Auto Stop: {'fresh': 25, 'pickup': 0, 'miss': 0, 'state': 0, 'locked': 0}
 Auto Stop: {'fresh': 36, 'pickup': 0, 'miss': 0, 'state': 0, 'locked': 0}
+Thread End: {'fresh': 36, 'pickup': 0, 'miss': 0, 'state': 0, 'locked': 0, 'begin': '2022-03-01 23:00:16', 'end': '2022-03-01 23:25:49'}
+Auto Stop: {'fresh': 23, 'pickup': 0, 'miss': 0, 'state': 0, 'locked': 0}
