@@ -1,3 +1,4 @@
 {'time': '2022-03-01 11:49:24', 'system': 'Windows', 'hostname': 'SHEN5CJ71X2', 'ip': '10.0.0.8', 'mac': '58-a0-23-28-80-fb'}
 Auto Stop: {'fresh': 28, 'pickup': 1, 'miss': 0, 'state': 0, 'locked': 0}
 Auto Stop: {'fresh': 29, 'pickup': 2, 'miss': 0, 'state': 0, 'locked': 0}
+Thread End: {'fresh': 29, 'pickup': 2, 'miss': 0, 'state': 0, 'locked': 0, 'begin': '2022-03-01 11:49:24', 'end': '2022-03-01 12:17:33'}
