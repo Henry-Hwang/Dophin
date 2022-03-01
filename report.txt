@@ -11,3 +11,4 @@
 {'fresh': 4, 'pickup': 1, 'miss': 0, 'state': 0, 'locked': 0, 'begin': '2022-03-01 00:02:29', 'end': '2022-03-01 00:03:12'}
 {'fresh': 4, 'pickup': 1, 'miss': 0, 'state': 0, 'locked': 0, 'begin': '2022-03-01 00:06:14', 'end': '2022-03-01 00:07:20'}
 {'fresh': 18, 'pickup': 2, 'miss': 3, 'state': 0, 'locked': 0, 'begin': '2022-03-01 07:56:03', 'end': '2022-03-01 11:09:43'}
+Auto Stop: {'fresh': 5, 'pickup': 1, 'miss': 0, 'state': 0, 'locked': 0}
