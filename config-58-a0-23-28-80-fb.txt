@@ -1,6 +1,6 @@
 {
     "browser": {
-        "name": "Firefox",
+        "name": "Chrome",
         "driver": {
             "Chrome": {
                 "path": "C:/work/src/ormis-skel/support/chromedriver.exe"
@@ -21,14 +21,14 @@
                 "url": "https://tcpjw.cn/#/market"
             }
         },
-        "uuid": "4be6de91-7cd9-4a46-b2ad-92280a15b0e1",
+        "uuid": "22b9b0c7-fa4b-4b81-a4d7-ad9abc9f4881",
         "url": "https://sdpjw.cn/#/market",
         "ip": "localhost",
         "port": "9222"
     },
     "report": {
         "account": "henry.hwang@outlook.com",
-        "token": "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",
+        "token": "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",
         "repo": "Henry-Hwang/Dophin",
         "branch": "main",
         "file": "report-58-a0-23-28-80-fb.txt",
@@ -49,10 +49,10 @@
         "max buffer": "30"
     },
     "status": {
-        "fresh": 0,
-        "bunny": 0,
+        "fresh": 2,
+        "pickup": 1,
         "miss": 0,
-        "state": 0,
-        "locked": 0
+        "locked": 0,
+        "time": "2022-03-03 00:15:31"
     }
 }
