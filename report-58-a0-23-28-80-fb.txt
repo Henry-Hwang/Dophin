@@ -103,3 +103,23 @@ Auto Stop: {'fresh': 1, 'pickup': 1, 'miss': 0, 'state': 0, 'locked': 0}
 Auto Stop: {'fresh': 3, 'pickup': 2, 'miss': 0, 'state': 0, 'locked': 0}
 Auto Stop: {'fresh': 103, 'pickup': 3, 'miss': 0, 'state': 0, 'locked': 0}
 Auto Stop: {'fresh': 105, 'pickup': 4, 'miss': 1, 'state': 0, 'locked': 0}
+Thread End: {'fresh': 105, 'pickup': 4, 'miss': 1, 'state': 0, 'locked': 0, 'begin': '2022-03-02 13:46:10', 'end': '2022-03-02 16:17:56'}
+Thread End: {'begin': '2022-03-02 16:18:35', 'end': '2022-03-02 16:20:52'}
+Thread End: {'begin': '2022-03-02 16:20:58', 'end': '2022-03-02 16:27:34'}
+Thread End: {'begin': '2022-03-02 16:27:43', 'end': '2022-03-02 16:37:11'}
+Thread End: {'begin': '2022-03-02 16:37:19', 'end': '2022-03-02 16:45:17'}
+Thread End: {'begin': '2022-03-02 16:46:07', 'end': '2022-03-02 16:58:18'}
+Thread End: {'begin': '2022-03-02 16:58:28', 'end': '2022-03-02 16:58:41'}
+Thread End: {'begin': '2022-03-02 16:59:17', 'end': '2022-03-02 17:00:46'}
+Thread End: {'begin': '2022-03-02 17:00:50', 'end': '2022-03-02 17:03:51'}
+Thread End: {'begin': '2022-03-02 17:03:57', 'end': '2022-03-02 17:07:30'}
+Thread End: {'begin': '2022-03-02 17:07:37', 'end': '2022-03-02 17:12:22'}
+Thread End: {'begin': '2022-03-02 17:19:07', 'end': '2022-03-02 17:22:26'}
+Thread End: {'begin': '2022-03-02 17:22:33', 'end': '2022-03-02 17:26:18'}
+Thread End: {'begin': '2022-03-02 17:26:39', 'end': '2022-03-02 17:26:56'}
+Thread End: {'begin': '2022-03-02 17:34:55', 'end': '2022-03-02 17:37:22'}
+Thread End: {'begin': '2022-03-02 17:37:41', 'end': '2022-03-02 17:43:50'}
+Thread End: {'begin': '2022-03-02 17:43:55', 'end': '2022-03-02 17:46:09'}
+Thread End: {'begin': '2022-03-02 17:46:32', 'end': '2022-03-02 17:52:13'}
+Thread End: {'begin': '2022-03-02 17:52:23', 'end': '2022-03-02 17:56:17'}
+Auto Stop: {'fresh': 38, 'pickup': 1, 'miss': 1, 'state': 0, 'locked': 0}
