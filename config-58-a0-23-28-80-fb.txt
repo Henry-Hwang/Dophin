@@ -1,1 +1,58 @@
-report nothing
+{
+    "browser": {
+        "name": "Firefox",
+        "driver": {
+            "Chrome": {
+                "path": "C:/work/src/ormis-skel/support/chromedriver.exe"
+            },
+            "Firefox": {
+                "path": "C:/work/src/ormis-skel/support/geckodriver.exe"
+            },
+            "Edge": {
+                "path": "C:/work/src/ormis-skel/support/msedgedriver.exe"
+            }
+        },
+        "page name": "sdpjw",
+        "page": {
+            "sdpjw": {
+                "url": "https://sdpjw.cn/#/market"
+            },
+            "tcpjw": {
+                "url": "https://tcpjw.cn/#/market"
+            }
+        },
+        "uuid": "4be6de91-7cd9-4a46-b2ad-92280a15b0e1",
+        "url": "https://sdpjw.cn/#/market",
+        "ip": "localhost",
+        "port": "9222"
+    },
+    "report": {
+        "account": "henry.hwang@outlook.com",
+        "token": "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",
+        "repo": "Henry-Hwang/Dophin",
+        "branch": "main",
+        "file": "report-58-a0-23-28-80-fb.txt",
+        "config file": "config-58-a0-23-28-80-fb.txt",
+        "log file": "log-58-a0-23-28-80-fb.txt",
+        "log level": "DEBUG"
+    },
+    "sysinfo": {
+        "system": "Windows",
+        "hostname": "SHEN5CJ71X2",
+        "ip": "10.0.0.8",
+        "mac": "58-a0-23-28-80-fb"
+    },
+    "params": {
+        "fresh period": "1.3",
+        "popup wait": "1.4",
+        "popup timeout": "1.0",
+        "max buffer": "30"
+    },
+    "status": {
+        "fresh": 0,
+        "bunny": 0,
+        "miss": 0,
+        "state": 0,
+        "locked": 0
+    }
+}
