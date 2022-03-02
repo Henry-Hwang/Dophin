@@ -21,14 +21,14 @@
                 "url": "https://tcpjw.cn/#/market"
             }
         },
-        "uuid": "22b9b0c7-fa4b-4b81-a4d7-ad9abc9f4881",
+        "uuid": "ed633749-962d-4237-b5de-bdf276e89b22",
         "url": "https://sdpjw.cn/#/market",
         "ip": "localhost",
         "port": "9222"
     },
     "report": {
         "account": "henry.hwang@outlook.com",
-        "token": "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",
+        "token": "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",
         "repo": "Henry-Hwang/Dophin",
         "branch": "main",
         "file": "report-58-a0-23-28-80-fb.txt",
@@ -49,10 +49,10 @@
         "max buffer": "30"
     },
     "status": {
-        "fresh": 2,
-        "pickup": 1,
+        "fresh": 58,
+        "pickup": 3,
         "miss": 0,
         "locked": 0,
-        "time": "2022-03-03 00:15:31"
+        "time": "2022-03-03 00:25:58"
     }
 }
